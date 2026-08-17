@@ -1,4 +1,4 @@
-l analysis of agricultural exports, commodity composition, and regional variation in health outcomes across U.S. states
+An analysis of agricultural exports, commodity composition, and regional variation in health outcomes across U.S. states
 
 Status: Research project / exploratory statistical analysis
 Data: 2019 U.S. state-level agricultural and health data
